@@ -1,3 +1,3 @@
 # dbt-tutorial
 hello!
-bye
+
